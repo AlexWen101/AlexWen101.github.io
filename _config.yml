@@ -12,6 +12,7 @@
 
 # jekyll-paginate configuration
 paginate:            5
+paginate_path: "blog/page:num"
 
 # Build settings
 markdown:            kramdown
@@ -20,9 +21,9 @@ permalink:           none
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'Lagrange'
-description:	       'a minimalist Jekyll theme'
-author:              'Paul Le'
+title:		           'Alex Wen''s Homepage'
+description:	       ''
+author:              ''
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
