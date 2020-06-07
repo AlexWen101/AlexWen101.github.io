@@ -219,7 +219,7 @@ hr {
 
 .footer a {
   color: #999;
-  padding: 10px;
+  padding: 0px;   /*set this to 10 px as default*/
   text-decoration: none;
 }
 
