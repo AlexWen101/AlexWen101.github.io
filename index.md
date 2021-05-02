@@ -22,14 +22,12 @@ image: profile.jpg
 
 Hi there. I’m an undergraduate at the University of British Columbia (2017-2022) studying physics and math.
 
-I currently work on plasma stability research at <a href="https://generalfusion.com/" target="_blank">General Fusion</a> to help build a commercially-viable nuclear fusion reactor.
+I currently work at Waterloo's <a href="https://uwaterloo.ca/institute-for-quantum-computing/" target="_blank">Institute for Quantum Computing</a> on optics and particle detection.
 
 <details>
   <summary>More research, personal details</summary>
 
-  Outside of my current work with plasma physics, I have experience in mostly nuclear and particle physics. However, I'm broadly interested in any type of fundamental physics, especially on the theory side.
-
-  I frequently work with machine learning and heavy-duty computation as research tools.
+  Outside of my current work with plasma physics, I have experience in mostly nuclear and particle physics. However, I'm broadly interested in any type of fundamental physics, especially on the theory side. I frequently work with heavy-duty computation as a research tool.
 
   ---
 
@@ -37,12 +35,12 @@ I currently work on plasma stability research at <a href="https://generalfusion.
 
  ### Plasma Stability at General Fusion
 
-  General Fusion's approach is to first inject a plasma into a cavity surrounded by liquid metal; this cavity is then collapsed using pistons, which squeezes and heats the plasma and induces fusion reactions.
+  General Fusion's approach to nuclear fusion is to first inject a plasma into a cavity surrounded by liquid metal; this cavity is then collapsed using pistons, which squeezes and heats the plasma and induces fusion reactions.
 
   <center><img src="{{ site.github.url }}/assets/img/intro/gf-compression.gif" width="450"/></center>
   <center><i>An animation of fusion reactor concept. After the plasma is injected from the top, the arrayed pistons on the outside compress the liquid metal and plasma.</i></center>
 
-  With Aaron Froese and the simulations team, I'm using computational models to optimize the characteristics of a hot plasma that is being compressed. We want to make sure, when we subject plasma to increased temperatures and densities for fusion to take place, that it will remain stable and behave in a useful way.
+  With Aaron Froese and the simulations team, we studied ways to optimize the characteristics of a hot plasma that is being compressed. When we subject plasma to increased temperatures and densities for fusion to take place, we want to ensure that it will remain stable and behave in a useful way.
 
 
   ### ATLAS Data Analysis
@@ -87,9 +85,9 @@ I currently work on plasma stability research at <a href="https://generalfusion.
 
   <center><img src="{{ site.github.url }}/assets/img/intro/van-pic.jpg" alt="van" width="450"/></center>
 
-  I'm an amateur but avid backpacker, hiker, and skiier, depending on the time of year. I'm in the process of fully exploring the many provincial and national parks from Vancouver to the Rockies. I used to be a competitive table tennis player, and I still play every so often.
+  I'm an amateur but avid backpacker, hiker, and skiier, depending on the time of year. I used to be a competitive table tennis player, and I still play every so often.
 
-  Academically, I love learning about military history - I'm pursuing a history minor degree. I also enjoy learning about tanks and aircraft and associated technologies (probably a product of my childhood interest, which never quite evaporated...).
+  Academically, I love learning about military history - I'm pursuing a history minor degree. I also enjoy learning about tanks, ships, and aircraft and associated technologies.
 
 </details>
 

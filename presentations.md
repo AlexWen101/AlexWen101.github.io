@@ -24,4 +24,6 @@ From past research projects.
 
 <ul>
   <li><a href="https://particlephysics.ca/research-activities/undergrad-program-cern-papers/?lang=en" target="_blank"> ATLAS Muon Resolution Studies for the Higgs Mass Measurement</a> <i> (look under year 2020) </i> </li>
+  <li><a href="https://iopscience.iop.org/article/10.1088/1741-4326/abe68c/pdf" target="_blank"> A Stable Corridor for Toroidal Plasma Compression </a></li>
+
 </ul>
