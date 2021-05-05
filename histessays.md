@@ -13,6 +13,7 @@ All views and findings expressed here are mine only; they don't necessarily refl
   <li><a href="/assets/files/histessays/StrategicCultureExplainingtheBehavioroftheChineseMilitaryState-Mar2019.pdf">Strategic Culture: Explaining the Behavior of the Chinese Military State</a></li>
   <li><a href="/assets/files/histessays/PoliticsofVictoryHowtheChineseCivilWarwasWonandLostinaWarWithoutBlood,1945-49-Apr2019.pdf">Politics of Victory: How the Chinese Civil War was Won and Lost in a War Without Blood, 1945-49</a></li>
   <li><a href="/assets/files/histessays/TheRiseofHangzhouDuringtheSongDynasty.pdf">The Rise of Hangzhou During the Song Dynasty</a></li>
+  <li><a href="/assets/files/histessays/NixonsRapprochementwithChinaAColdWarWatershed.pdf">Nixon's Rapprochement with China: A Cold War Watershed</a></li>
 </ul>
 
 ## European History
