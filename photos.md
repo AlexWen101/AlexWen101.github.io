@@ -10,6 +10,9 @@ Photos of myself, objects, and places. All images belong to me, or to friends/fa
 <center><img src="{{ site.github.url }}/assets/img/medicinelake.jpg"  width="500"/></center>
 <center><i>Near Medicine Lake in Jasper National Park.</i></center>
 
+<center><img src="{{ site.github.url }}/assets/img/widgeonlake.jpg"  width="500"/></center>
+<center><i>Widgeon Lake in Pinecone Burke Provincial Park. Interestingly, it's slightly tidal.</i></center>
+
 <center><img src="{{ site.github.url }}/assets/img/borgeauvalley.jpg"  width="500"/></center>
 <center><i>Near Mt. Borgeau in Banff National Park.</i></center>
 
@@ -30,9 +33,3 @@ Photos of myself, objects, and places. All images belong to me, or to friends/fa
 
 <center><img src="{{ site.github.url }}/assets/img/shitbarn.jpg"  width="500"/></center>
 <center><i>An absolute monstrosity of an experimental British assault tank, the FV4005 Stage II. It has a colossal 183 mm caliber main gun. Spotted near Bovington/Wool, UK.</i></center>
-
-<center><img src="{{ site.github.url }}/assets/img/snolabentrance.jpg"  width="500"/></center>
-<center><i>The entrance of SNOLAB, in an active mine 2 km underground near Sudbury, Ontario.</i></center>
-
-<center><img src="{{ site.github.url }}/assets/img/mindthegap.jpg"  width="350"/></center>
-<center><i>A very big gap to mind on the London underground.</i></center>
