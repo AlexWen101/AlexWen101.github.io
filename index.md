@@ -16,10 +16,6 @@ image: profile.jpg
 
 ---
 
-<center>  <a href="{{ site.baseurl }}{% link presentations.md %}">Research Projects</a>  &ensp; <a href="{{ site.baseurl }}{% link misc.md %}">Misc.</a></center>
-
----
-
 Hi there. I’m an undergraduate at the University of British Columbia (2017-2022) studying physics and math.
 
 I currently work at Waterloo's <a href="https://uwaterloo.ca/institute-for-quantum-computing/" target="_blank">Institute for Quantum Computing</a> on optics and particle detection.
