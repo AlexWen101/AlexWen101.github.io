@@ -3,9 +3,7 @@ layout: page
 title: Research
 ---
 
-I'd like to understand how nature works at the most basic level.
-
-I have experience in mostly nuclear and particle physics, but I'm broadly interested in any type of fundamental physics. I frequently work with heavy-duty computation as a research tool.
+I work in nuclear and particle physics, at the intersection of theory and experiment: phenomenology, measurements, and simulation.
 
 <details>
   <summary> <span style="color:#003300">More details about research projects.</span> </summary>
@@ -21,8 +19,7 @@ I have experience in mostly nuclear and particle physics, but I'm broadly intere
 
   With Aaron Froese and the simulations team, we studied ways to optimize the characteristics of a hot plasma that is being compressed. When we subject plasma to increased temperatures and densities for fusion to take place, we want to ensure that it will remain stable and behave in a useful way.
 
-
-  ### ATLAS Data Analysis
+  ### ATLAS
 
   I spent around 6 months working on the <a href="https://atlas.cern/" target="_blank">ATLAS experiment</a>, a large particle collider experiment at CERN.
 
