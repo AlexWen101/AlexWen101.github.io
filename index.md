@@ -16,9 +16,9 @@ image: profile.jpg
 
 ---
 
-Hi there. I’m an undergraduate at the University of British Columbia (2017-2022) studying physics and math.
+Hi there. I’m a physics and math undergraduate at the University of British Columbia.
 
-I currently work at Waterloo's <a href="https://uwaterloo.ca/institute-for-quantum-computing/" target="_blank">Institute for Quantum Computing</a> on optics and particle detection.
+I currently work at Waterloo's <a href="https://uwaterloo.ca/institute-for-quantum-computing/" target="_blank">Institute for Quantum Computing</a> on quantum optics.
 
 
 {% include footer.html %}

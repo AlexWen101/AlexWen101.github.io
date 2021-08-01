@@ -15,6 +15,4 @@ In order, starting with the best:
 
 *Last updated: July 4, 2021*
 
-I always have the most basic "milk tea with pearls" setup - and that's what I compare between locations. A bubble tea shop that can't do a good milk tea with pearls is like an Italian restaurant that can't cook good pasta.
-
-Note: the distance between #1 on the list and #2 is significant. 
+I always have the most basic "milk tea with pearls" setup - and that's what I compare between locations.
