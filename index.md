@@ -16,7 +16,7 @@ image: profile.jpg
 
 ---
 
-Hi there. I’m a physics and math undergraduate at the University of British Columbia. 
+Hi there. I’m a physics and math undergraduate at the University of British Columbia.
 
 
 {% include footer.html %}

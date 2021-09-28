@@ -6,9 +6,18 @@ title: Research
 I work in nuclear and particle physics, at the intersection of theory and experiment: phenomenology, measurements, and simulation.
 
 <details>
-  <summary> <span style="color:#003300">More details about research projects.</span> </summary>
+  <summary> <b>More details about research projects.</b> </summary>
 
  ## Projects
+
+ ### Interferometry at the Institute for Quantum Computing
+
+  I worked on characterizing silicon for a future grating interferometer experiment. This experiment, in <a href="https://services.iqc.uwaterloo.ca/people/profile/dpushin/" target="_blank"> Dmitry Pushin's group</a>, will use neutrons to <a href="https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.120.113201" target="_blank">measure the gravitational constant</a>.
+
+  For certain silicon crystals to be used as sensitive optical gratings, we need to understand its properties - in particular, its <a href="https://en.wikipedia.org/wiki/Birefringence" target="_blank">birefringence</a> (an often small change in refractive index that depends on light polarization). Using a NIR laser and simple optical setup, I did measurements on several silicon samples, measuring birefringence with high sensitivity ($\sim 10^{-6}$).
+
+  <center><img src="{{ site.github.url }}/assets/img/intro/sample2_birefmap.png"  width="550"/></center>
+  <center><i>A map of measured birefringence of a portion of a silicon sample (on the left side), compared to birefringence measured through the air (no sample, on the right side).</i></center>
 
  ### Plasma Stability at General Fusion
 
