@@ -3,7 +3,7 @@ layout: page
 title: Research
 ---
 
-I work in nuclear and particle physics, at the intersection of theory and experiment: phenomenology, measurements, and simulation.
+I have worked on a variety of projects spanning particle, nuclear, and plasma physics. 
 
 <details>
   <summary> <b>More details about research projects.</b> </summary>
