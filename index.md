@@ -18,7 +18,7 @@ image: profile.jpg
 
 Hi there. I’m a physics and math undergraduate at the University of British Columbia.
 
-I also work at TRIUMF, Canada's particle accelerator lab, on simulating the creation of certain types of nuclei within stars. 
+I'm mostly interested in experimental particle and atomic/molecular/optical physics.
 
 
 {% include footer.html %}
