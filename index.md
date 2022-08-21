@@ -8,7 +8,7 @@ image: profile.jpg
 
 ---
 
-<p style="text-align:center">e-mail: alex.wen [at] alumni.ubc.ca </p>
+<p style="text-align:center">e-mail: alexwen [at] g.harvard.edu </p>
 
 ---
 
@@ -16,8 +16,8 @@ image: profile.jpg
 
 ---
 
-Hi there. I’m a physics and math undergraduate at the University of British Columbia.
+Hi there. I'm a physics PhD student at Harvard University.
 
-I'm mostly interested in (experimental) particle and atomic/molecular/optical physics.
+I'm mostly interested in particle and atomic/molecular/optical physics.
 
 {% include footer.html %}

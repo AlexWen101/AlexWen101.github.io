@@ -3,12 +3,10 @@ layout: page
 title: Research
 ---
 
-I have worked on a variety of projects spanning particle, nuclear, and plasma physics. 
+Current work goes here.
 
 <details>
-  <summary> <b>More details about research projects.</b> </summary>
-
- ## Projects
+  <summary> <b>Previous research projects.</b> </summary>
 
  ### Interferometry at the Institute for Quantum Computing
 
