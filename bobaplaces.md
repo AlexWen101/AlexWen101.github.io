@@ -3,8 +3,6 @@ layout: page
 title: Metro Vancouver Bubble Tea Recommendations
 ---
 
-In order, starting with the best:
-
 1. Mr. Chu Tea and Coffee (White Rock)
 2. Shiny Tea Aberdeen (Richmond)
 3. Baroness Bubble Tea (Vancouver)
@@ -15,4 +13,4 @@ In order, starting with the best:
 8. The Alley Hornby (Vancouver)
 9. Dragon Ball Tea House (Vancouver)
 
-*Last updated: June 2, 2022*
+*Last updated: December 2023*
