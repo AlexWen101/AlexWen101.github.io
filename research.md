@@ -7,9 +7,18 @@ title: Research
 
 <ul>
   <li><a href="https://doi.org/10.1103/PhysRevLett.132.061001" target="_blank"> Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS</a> <i> Alex Y. Wen, Carlos A. Argüelles, Ali Kheirandish, Kohta Murase </i> </li>
-  <li><a href="https://doi.org/10.48550/arXiv.2406.01745" target="_blank"> 2. SIREN: An Open Source Neutrino Injection Toolkit </a> <i> Austin Schneider, Nicholas W. Kamp, Alex Y. Wen </i> </li>
-
+  <li><a href="https://doi.org/10.48550/arXiv.2406.01745" target="_blank"> SIREN: An Open Source Neutrino Injection Toolkit</a> <i> Austin Schneider, Nicholas W. Kamp, Alex Y. Wen </i> </li>
+  <li><a href="https://doi.org/10.1088/1741-4326/abe68c" target="_blank"> A stable corridor for toroidal plasma compression</a> <i> Dylan Brennan et al. </i> </li>
 </ul>
+
+### Talks and contributions
+
+* *Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS* @ Neutrino 2024, Milan, IT
+* *Talk: Detecting Neutrinos and Searching for New Ones* @ TDLI (Shanghai Jiao Tong), Shanghai, CN
+* *Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS* @ International Neutrino Summer School 2024, Bologna, IT
+* *Poster & talk: Possibility of Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS* @ MAYORANA Summer School 2023, Modica, IT
+
+<!--
 
 <details>
   <summary> <b>Undergrad research projects (2018 - 2022).</b> </summary>
@@ -36,7 +45,7 @@ title: Research
 
   I spent around 6 months working on the <a href="https://atlas.cern/" target="_blank">ATLAS experiment</a>, a large particle collider experiment at CERN.
 
-  Most recently, with Pierre Savard and Lukas Adamek at the University of Toronto, we developed ways to estimate and quantify the measurement uncertainty of the Higgs boson mass, an important parameter of interest that ATLAS observes.
+  With Pierre Savard and Lukas Adamek at the University of Toronto, we developed ways to estimate and quantify the measurement uncertainty of the Higgs boson mass, an important parameter of interest that ATLAS observes.
 
   <center><img src="{{ site.github.url }}/assets/img/intro/HtoZZto4lchannel.jpg"  width="400"/></center>
   <center><i>The uncertainty of the Higgs mass is related to how wide the Higgs mass distribution (light blue) appears on a histogram of many different particle masses. Plot from the <a href="https://www.sciencedirect.com/science/article/pii/S037026931200857X#fg0080" target="_blank">2012 ATLAS Higgs discovery paper</a>.</i></center>
@@ -48,7 +57,7 @@ title: Research
 
   ### LHCb Statistics
 
-  For half a summer at Imperial College London, I worked with William Barter on the <a href="http://lhcb-public.web.cern.ch/" target="_blank">LHCb experiment</a>, also located at CERN. We used and developed statistical methods to see if the differences between two samples of particle decay data are statistically significant. Such methods are useful for seeing how matter and antimatter behave differently, a central problem in physics.
+  For a summer at Imperial College London, I worked with William Barter on the <a href="http://lhcb-public.web.cern.ch/" target="_blank">LHCb experiment</a>, also located at CERN. We used and developed statistical methods to see if the differences between two samples of particle decay data are statistically significant. Such methods are useful for seeing how matter and antimatter behave differently, a central problem in physics.
 
   ### NEWS-G Dark Matter Search at SNOLAB
 
@@ -61,9 +70,11 @@ title: Research
 
   EMMA is a recoil mass spectrometer at <a href="https://www.triumf.ca/" target="_blank">TRIUMF</a>, Canada's national lab for accelerator physics. At EMMA, after an energetic particle beam is collided into a target, the resulting nuclei (recoils) are sorted and classified based on their mass and charge. It allows us to study a lot of different nuclear reactions, especially astrophysical ones.  
 
-  I worked with EMMA's principal researcher, Barry Davids, for one summer on running simulations and gauging EMMA's operating characteristics. I sometimes work part-time with the EMMA group during the school year.
+  I worked with EMMA's principal researcher, Barry Davids, for one summer on running simulations and gauging EMMA's operating characteristics.
 
   <center><img src="{{ site.github.url }}/assets/img/intro/emma-triumf.jpg"  width="350"/></center>
   <center><i>EMMA consists of a series of electric and magnetic deflectors to separate particle beams into constituents.</i></center>
 
 </details>
+
+-->
