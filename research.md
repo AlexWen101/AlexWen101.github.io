@@ -6,17 +6,24 @@ title: Research
 ### Selected Publications
 
 <ul>
-  <li><a href="https://doi.org/10.1103/PhysRevLett.132.061001" target="_blank"> Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS</a> <i> Alex Y. Wen, Carlos A. Argüelles, Ali Kheirandish, Kohta Murase </i> </li>
-  <li><a href="https://doi.org/10.48550/arXiv.2406.01745" target="_blank"> SIREN: An Open Source Neutrino Injection Toolkit</a> <i> Austin Schneider, Nicholas W. Kamp, Alex Y. Wen </i> </li>
-  <li><a href="https://doi.org/10.1088/1741-4326/abe68c" target="_blank"> A stable corridor for toroidal plasma compression</a> <i> Dylan Brennan et al. </i> </li>
+  <li><a href="https://doi.org/10.1103/PhysRevLett.132.061001" target="_blank"> Detecting High-Energy Neutrinos from Galactic Supernovae with ATLAS</a> <br>
+  Alex Y. Wen, Carlos A. Argüelles, Ali Kheirandish, Kohta Murase </li>
+  <li><a href="https://doi.org/10.48550/arXiv.2406.01745" target="_blank"> SIREN: An Open Source Neutrino Injection Toolkit</a> <br> 
+  Austin Schneider, Nicholas W. Kamp, Alex Y. Wen </li>
+  <li><a href="https://doi.org/10.1088/1741-4326/abe68c" target="_blank"> A stable corridor for toroidal plasma compression</a> <br> 
+  Dylan Brennan et al. </li>
 </ul>
 
 ### Talks and contributions
 
-* *Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS* @ Neutrino 2024, Milan, IT
-* *Talk: Detecting Neutrinos and Searching for New Ones* @ TDLI (Shanghai Jiao Tong), Shanghai, CN
-* *Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS* @ International Neutrino Summer School 2024, Bologna, IT
-* *Poster & talk: Possibility of Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS* @ MAYORANA Summer School 2023, Modica, IT
+* **Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS** <br>
+   Neutrino 2024, Milan, Italy
+* **Talk: Detecting Neutrinos and Searching for New Ones** <br> 
+   TDLI (Shanghai Jiao Tong) Seminar, Shanghai, China
+* **Poster: Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS** <br>
+   International Neutrino Summer School 2024, Bologna, Italy
+* **Poster & talk: Possibility of Detecting High-Energy Neutrinos from Galactic Supernovae With ATLAS** <br> 
+   MAYORANA Summer School 2023, Modica, Italy
 
 <!--
 
